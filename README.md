@@ -1,0 +1,42 @@
+<h1 align="center"> toDo List </h1>
+
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="to do list" src=".github/Cover.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- React Native
+- Git e Github
+
+## 💻 Projeto
+
+O toDo List é um projeto de adição e remoção de tarefas.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate](https://www.figma.com/file/3yTRrOM1j87N2na05p2bvh/ToDo-List-%E2%80%A2-Desafio-React-Native-(Copy)?type=design&node-id=3603-3533&mode=design&t=UCVVhgzCkMNsxCOM-0)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Lorenzo Matheo :wave: [Me siga no discord!](https://discord.gg/lorenzocamargo)
